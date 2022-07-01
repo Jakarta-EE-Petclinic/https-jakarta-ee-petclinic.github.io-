@@ -1,1 +1,1 @@
-# https-jakarta-ee-petclinic.github.io-
+# jakarta-ee-petclinic.github.io
